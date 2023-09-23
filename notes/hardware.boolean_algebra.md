@@ -54,7 +54,7 @@ Some of the most important boolean algebra laws include:
 - Distributive laws
 - De Morgan's Laws
 
-## Furtheremore
+## Furthermore
 
 - Monotome laws 
 - Nonmonotone laws 
